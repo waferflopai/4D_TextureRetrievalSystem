@@ -1,7 +1,7 @@
 # 4D Texture Retrieval System
 
 <p align="center">
-  <img src="assets/4dTextureRetrieval.png" width="1000">
+  <img src="4dTextureRetrieval.png" width="1000">
   <br>
   <em>Policy-first semantic retrieval using supervised semantic terrain and controllable property maps.</em>
 </p>
